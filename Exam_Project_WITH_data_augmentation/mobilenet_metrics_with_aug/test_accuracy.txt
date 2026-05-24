@@ -1,5 +1,0 @@
-Test results
-====================
-Accuracy on test data: 85.31%
-Correct predictions: 8531
-Total test images: 10000
